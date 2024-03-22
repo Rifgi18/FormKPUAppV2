@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">FormKPUApp</string>
+
+    <string name="nameMenu">Nama Menu</string>
+    <string name="kpu">KPU</string>
+
+    <string name="textInfo">Informasi</string>
+    <string name="textForm">Form Entry</string>
+    <string name="textData">Lihat Data</string>
+    <string name="textExit">Keluar</string>
+
+    <string name="textNik">NIK</string>
+    <string name="textNama">Nama Lengkap</string>
+    <string name="textTelp">Nomor Handphone</string>
+    <string name="textJK">Jenis Kelamin</string>
+    <string name="textDate">Tanggal Pendataan</string>
+    <string name="textAddress">Alamat Rumah</string>
+    <string name="textImg">Foto Rumah</string>
+    <string name="textBtnSubmit">Submit</string>
+
+    <string name="hintNik">Masukkan NIK</string>
+    <string name="hintNama">Masukkan Nama Lengkap</string>
+    <string name="hintTelp">Masukkan Nomor Handphone</string>
+    <string name="hintDate">Pilih Tanggal</string>
+    <string name="hintAddress">Masukkan Alamat Rumah</string>
+    <string name="hintLat">Masukkan Koordinat Latitude</string>
+    <string name="hintLong">Masukkan Koordinat Longitude</string>
+
+    <string name="rdTextMale">Laki - Laki </string>
+    <string name="rdTextFemale">Perempuan </string>
+
+    <string name="txtBtnAddress">Cek Lokasi</string>
+    <string name="descImg">Gambar Proses Pendataan</string>
+
+    <string name="txtBtnCamera">Kamera</string>
+    <string name="txtBtnGallery">Galeri</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="txtSaveLoc">Simpan</string>
+
+    <string name="start_running">Start Running</string>
+    <string name="stop_running">Stop Running</string>
+    <string name="start_point">Start Point</string>
+
+    <string name="txtLat">- Latitude </string>
+    <string name="txtLong">- Longitude </string>
+
+    <string name="date">Tanggal</string>
+    <string name="name">Nama</string>
+    <string name="gender">Jenis Kelamin</string>
+    <string name="delete">Hapus</string>
+
+    <string name="message_undo">Batalkan menghapus item sebelumnya?</string>
+    <string name="message_ok">OK</string>
+    <string name="cancel">Batal</string>
+    <string name="empty">Field can not be blank</string>
+    <string name="update">Update</string>
+    <string name="change">Ubah</string>
+    <string name="add">Tambah</string>
+    <string name="save">Simpan</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="message_cancel">Apakah anda ingin membatalkan perubahan pada form?</string>
+    <string name="message_delete">Apakah anda yakin ingin menghapus item ini?</string>
+    <string name="added">Satu item berhasil ditambahkan</string>
+    <string name="changed">Satu item berhasil diubah</string>
+    <string name="deleted">Satu item berhasil dihapus</string>
+
+    <string name="charAlert">NIK harus memiliki 16 karakter</string>
+    <string name="listNotice">Tidak ada data dalam list saat ini</string>
+
+</resources>
